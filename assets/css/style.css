@@ -1,0 +1,12 @@
+.vh-100{
+    height: 100vh;
+}
+.d-flex{
+    display: flex;
+}
+.align-item-center{
+    align-items: center;
+}
+.justify-content-center{
+    justify-content: center;
+}
